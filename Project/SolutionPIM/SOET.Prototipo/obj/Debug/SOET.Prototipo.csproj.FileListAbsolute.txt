@@ -1,4 +1,0 @@
-C:\Users\GABRIEL\DesktopPIM2013\Project\SolutionPIM\SOET.Prototipo\bin\SOET.Prototipo.dll
-C:\Users\GABRIEL\DesktopPIM2013\Project\SolutionPIM\SOET.Prototipo\bin\SOET.Prototipo.pdb
-C:\Users\GABRIEL\DesktopPIM2013\Project\SolutionPIM\SOET.Prototipo\obj\Debug\SOET.Prototipo.dll
-C:\Users\GABRIEL\DesktopPIM2013\Project\SolutionPIM\SOET.Prototipo\obj\Debug\SOET.Prototipo.pdb

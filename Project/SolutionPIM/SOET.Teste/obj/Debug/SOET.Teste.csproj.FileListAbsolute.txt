@@ -1,5 +1,0 @@
-C:\Users\GABRIEL\DesktopPIM2013\Project\SolutionPIM\SOET.Teste\bin\SOET.Teste.dll
-C:\Users\GABRIEL\DesktopPIM2013\Project\SolutionPIM\SOET.Teste\bin\SOET.Teste.pdb
-C:\Users\GABRIEL\DesktopPIM2013\Project\SolutionPIM\SOET.Teste\obj\Debug\SOET.Teste.csprojResolveAssemblyReference.cache
-C:\Users\GABRIEL\DesktopPIM2013\Project\SolutionPIM\SOET.Teste\obj\Debug\SOET.Teste.dll
-C:\Users\GABRIEL\DesktopPIM2013\Project\SolutionPIM\SOET.Teste\obj\Debug\SOET.Teste.pdb

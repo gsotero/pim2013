@@ -1,5 +1,0 @@
-C:\Users\GABRIEL\DesktopPIM2013\Project\SolutionPIM\SOET.Entity\bin\SOET.Entity.dll
-C:\Users\GABRIEL\DesktopPIM2013\Project\SolutionPIM\SOET.Entity\bin\SOET.Entity.pdb
-C:\Users\GABRIEL\DesktopPIM2013\Project\SolutionPIM\SOET.Entity\obj\Debug\SOET.Entity.csprojResolveAssemblyReference.cache
-C:\Users\GABRIEL\DesktopPIM2013\Project\SolutionPIM\SOET.Entity\obj\Debug\SOET.Entity.dll
-C:\Users\GABRIEL\DesktopPIM2013\Project\SolutionPIM\SOET.Entity\obj\Debug\SOET.Entity.pdb

@@ -1,6 +1,0 @@
-C:\Users\GABRIEL\DesktopPIM2013\Project\SolutionPIM\SOET.UI\obj\Debug\SOET.UI.csprojResolveAssemblyReference.cache
-C:\Users\GABRIEL\DesktopPIM2013\Project\SolutionPIM\SOET.UI\bin\SOET.UI.dll
-C:\Users\GABRIEL\DesktopPIM2013\Project\SolutionPIM\SOET.UI\bin\SOET.UI.pdb
-C:\Users\GABRIEL\DesktopPIM2013\Project\SolutionPIM\SOET.UI\bin\AjaxControlToolkit.dll
-C:\Users\GABRIEL\DesktopPIM2013\Project\SolutionPIM\SOET.UI\obj\Debug\SOET.UI.dll
-C:\Users\GABRIEL\DesktopPIM2013\Project\SolutionPIM\SOET.UI\obj\Debug\SOET.UI.pdb

@@ -1,4 +1,0 @@
-﻿<asp:RequiredFieldValidator runat="server" ErrorMessage="<img src='../App_Image/ico-exclamation.png' />"></asp:RequiredFieldValidator>
-<asp:CompareValidator runat="server" ErrorMessage="<img src='../App_Image/ico-exclamation.png' />"></asp:CompareValidator>
-<asp:RegularExpressionValidator runat="server" ErrorMessage="<img src='../App_Image/ico-exclamation.png' />"  ></asp:RegularExpressionValidator>
-<asp:RangeValidator runat="server" ErrorMessage="<img src='../App_Image/ico-exclamation.png' />"></asp:RangeValidator>

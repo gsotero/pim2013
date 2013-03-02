@@ -1,5 +1,0 @@
-C:\Users\GABRIEL\DesktopPIM2013\Project\SolutionPIM\SOET.Data\bin\SOET.Data.dll
-C:\Users\GABRIEL\DesktopPIM2013\Project\SolutionPIM\SOET.Data\bin\SOET.Data.pdb
-C:\Users\GABRIEL\DesktopPIM2013\Project\SolutionPIM\SOET.Data\obj\Debug\SOET.Data.csprojResolveAssemblyReference.cache
-C:\Users\GABRIEL\DesktopPIM2013\Project\SolutionPIM\SOET.Data\obj\Debug\SOET.Data.dll
-C:\Users\GABRIEL\DesktopPIM2013\Project\SolutionPIM\SOET.Data\obj\Debug\SOET.Data.pdb
