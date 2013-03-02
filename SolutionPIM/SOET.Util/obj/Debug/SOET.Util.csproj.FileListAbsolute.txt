@@ -1,0 +1,4 @@
+C:\Users\GABRIEL\DesktopPIM2013\Project\SolutionPIM\SOET.Util\bin\SOET.Util.dll
+C:\Users\GABRIEL\DesktopPIM2013\Project\SolutionPIM\SOET.Util\bin\SOET.Util.pdb
+C:\Users\GABRIEL\DesktopPIM2013\Project\SolutionPIM\SOET.Util\obj\Debug\SOET.Util.dll
+C:\Users\GABRIEL\DesktopPIM2013\Project\SolutionPIM\SOET.Util\obj\Debug\SOET.Util.pdb
